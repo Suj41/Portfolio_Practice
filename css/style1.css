@@ -1,0 +1,6 @@
+main .carousel-item img{
+    height: 450px;
+}
+ main .service-image{
+     border-radius: 4rem;
+ }
